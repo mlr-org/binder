@@ -10,10 +10,6 @@ bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}
- knitr::opts_chunk$set(
-  echo = TRUE,
-  R.options = list(width = 80)
-)
 library(mlr3book)
 ```
 
