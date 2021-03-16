@@ -1,0 +1,10 @@
+install.packages(
+  "ggplot2",
+  "knitr",
+  "lgr",
+  "mlr3book",
+  "mlr3verse",
+  "rmarkdown",
+  "scales",
+  "skimr"
+)
