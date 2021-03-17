@@ -1,6 +1,6 @@
 install.packages(
   "ggplot2",
-  "mlr3verse",
+  "mlr3",
   "scales",
   "skimr"
 )
