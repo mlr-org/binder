@@ -1,8 +1,7 @@
 install.packages(c(
   "ggplot2",
-  "mlr3",
-  "mlr3tuning",
-  "paradox",
+  "mlr3verse",
+  "mlr3book",
   "scales",
   "skimr"
 ))
