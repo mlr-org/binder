@@ -3,5 +3,6 @@ install.packages(c(
   "mlr3verse",
   "mlr3book",
   "skimr",
-  "scales"
+  "scales",
+  "e1071"
 ))
