@@ -4,5 +4,6 @@ install.packages(c(
   "mlr3book",
   "skimr",
   "scales",
-  "e1071"
+  "e1071",
+  "DiceKriging"
 ))
